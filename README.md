@@ -1,2 +1,2 @@
 # Computational_Physics
-Some code for essential methods in Computational Physics
+This repository contains some code for essential methods in Computational Physics
